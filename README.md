@@ -9,11 +9,11 @@ This is an open-source document built by the 2019 Fall Big Data course to assist
 ## Assistants
 
 - [Sec 01 Santhosh]()
-- [Sec 02 Rohan]()
+- [Sec 02 Rohan](https://github.com/rohan6471)
 
 ## Sections
 
-- [Assignment 1 - Part 6 - Explore](1-6.md)
-- [Assignment 1 - Part 7 - Start the Services](1-7.md)
-- [Assignment 1 - Part 8 - Start the Java Apps](1-8.md)
+- [Part 6 - Explore](6.md)
+- [Part 7 - Start the Services](7.md)
+- [Part 8 - Start the Java Apps](8.md)
 
